@@ -1,19 +1,14 @@
 {
-  "name": "飲控 v2",
-  "short_name": "飲控",
-  "description": "每日健康與飲食紀錄",
-  "start_url": "./",
+  "name": "無盡弓域 V25｜固定中央透明虛擬搖桿版",
+  "short_name": "無盡弓域V25",
+  "description": "無盡弓域 V25 手機版遊戲",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#f5f6f8",
-  "theme_color": "#00a65f",
+  "orientation": "landscape",
+  "background_color": "#101827",
+  "theme_color": "#111827",
   "icons": [
-    {
-      "src": "icons/icon-180.png",
-      "sizes": "180x180",
-      "type": "image/png"
-    },
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
@@ -23,6 +18,12 @@
       "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "icons/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
